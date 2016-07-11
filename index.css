@@ -59,5 +59,19 @@
     background-color: #364058;
     text-align: center;
     color: white; }
+  #wrapper .samplephoto {
+    background: url("beach.jpg") no-repeat center center;
+    height: 65px; }
+  #wrapper h4 {
+    color: white;
+    text-align: center; }
+  #wrapper p {
+    color: #5D6985; }
+  #wrapper .information {
+    padding: 10px; }
+  #wrapper .phonenumbers {
+    padding-top: 10px; }
+  #wrapper .informationbg {
+    background-color: #1B1E27; }
 
 /*# sourceMappingURL=index.css.map */

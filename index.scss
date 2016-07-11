@@ -8,6 +8,8 @@ $headerblue: #364058;
 .maincontent {
     background-color:$darkblue;
 }
+
+
 .nav {
     background: rgba(94,94,94,1);
     background: -moz-linear-gradient(top, rgba(94,94,94,1) 0%, rgba(0,0,0,1) 100%);
@@ -82,6 +84,37 @@ $headerblue: #364058;
          background-color:#364058;
          text-align:center;
          color:white;
+  
     }
+
+    .samplephoto {
+       background: url('beach.jpg') no-repeat center center;
+       height:65px;
+      
+      
+    }
+
+    h4 {
+        color:white;
+        text-align:center;
+    }
+
+    p {
+        color:#5D6985;
+    }
+
+    .information {
+        padding:10px;
+    }
+
+    .phonenumbers {
+        padding-top:10px;
+    }
+
+    .informationbg {
+        background-color:#1B1E27;
+    }
+
+  
 }
 
